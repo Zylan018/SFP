@@ -1,0 +1,2 @@
+text = "Mavin"
+print(text)
